@@ -45,7 +45,7 @@ async def main():
     trying different options and sites as needed.
     When you need to write files, you do that inside the sandbox folder only.
     """
-
+    
     async with MCPServerStdio(params=files_params) as mcp_files:
         async with MCPServerStdio(params=playwright_params) as mcp_browser:
 

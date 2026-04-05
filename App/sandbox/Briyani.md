@@ -1,38 +1,66 @@
-# South Indian Briyani Recipe
+Thalassery (South Indian) Biryani - Summary Recipe
 
-## Ingredients:
-- 2 cups Basmati rice
-- 500 grams chicken or mutton (you can also use vegetables for a vegetarian version)
-- 2 large onions, thinly sliced
-- 2 tomatoes, chopped
-- 1/2 cup yogurt
-- 2 tablespoons ginger garlic paste
-- 2-3 green chilies, slit
-- A handful of fresh coriander leaves, chopped
-- A handful of fresh mint leaves, chopped
-- 1/4 cup cooking oil or ghee
-- 2 teaspoons biryani masala powder
-- 1 teaspoon red chili powder
-- 1/2 teaspoon turmeric powder
-- 1 teaspoon garam masala
-- Whole spices: 2 bay leaves, 4-5 cloves, 3-4 cardamom pods, 1-inch cinnamon stick
-- Salt to taste
-- Water as needed
+Overview
+- Region: Malabar coast (Kerala), a celebrated South Indian variation.
+- Rice: Traditionally uses small-grained fragrant rice (Kaima/Jeerakasala) rather than long-grain basmati.
+- Style: Layered meat and rice cooked on dum; fragrant spices, fried onions, ghee and a lighter, more aromatic spice profile than Hyderabadi biryani.
 
-## Instructions:
-1. Wash and soak the basmati rice for about 30 minutes.
-2. Heat oil or ghee in a heavy-bottomed pan. Add whole spices and sauté until aromatic.
-3. Add sliced onions and fry until golden brown.
-4. Add ginger garlic paste and green chilies, sauté for a minute.
-5. Add chopped tomatoes, cook until soft.
-6. Add chicken or mutton pieces, fry until they change color.
-7. Add yogurt, biryani masala, red chili powder, turmeric powder, and salt. Cook until the meat is tender.
-8. Add chopped coriander and mint leaves.
-9. In another pot, boil water with salt and cook the soaked rice until 70% done. Drain the water.
-10. Layer the cooked meat mixture and partially cooked rice. Sprinkle garam masala and some mint leaves.
-11. Cover tightly and cook on low heat (dum) for about 20-25 minutes until the rice is fully cooked and flavors are absorbed.
+Serves: 4
 
-## Serving:
-Serve hot with raita, boiled eggs, or a simple salad.
+Ingredients (approximate)
+- Chicken: 800 g (bone-in pieces)
+- Kaima/Jeerakasala rice (or 2 cups basmati): 2 cups
+- Yogurt: 1/2 cup
+- Onions: 3 medium, thinly sliced
+- Tomatoes: 1 large, chopped (optional)
+- Fresh ginger-garlic paste: 2 tbsp
+- Green chilies: 3-4, slit
+- Fresh mint leaves: 1/2 cup
+- Fresh coriander leaves: 1/2 cup
+- Lemon juice: 2 tbsp
+- Ghee: 3 tbsp (plus oil for frying)
+- Cooking oil: 2-3 tbsp
 
-Enjoy your authentic South Indian Briyani!
+Whole spices (to temper / for rice):
+- Fennel seeds (saunf): 1 tsp
+- Green cardamom: 4-6
+- Cloves: 4-6
+- Cinnamon stick: 1 (2-inch)
+- Bay leaves: 2
+- Mace (javitri): small piece (optional)
+- Star anise: 1 (optional)
+
+Ground spices / masala
+- Turmeric: 1/2 tsp
+- Kashmiri red chili powder (or regular): 1 tsp (adjust heat)
+- Coriander powder: 1 tsp
+- Garam masala: 1 tsp
+
+Saffron (optional): few strands soaked in 2 tbsp warm milk
+Salt to taste
+
+Quick Method (summary)
+1) Marinade: In a bowl combine chicken, yogurt, ginger-garlic paste, turmeric, chili powder, coriander powder, half the garam masala, lemon juice, chopped mint and coriander, and salt. Marinate 1–2 hours (or overnight for best flavor).
+
+2) Rice: Rinse rice until water runs clear. Parboil rice in salted water with whole spices (fennel, cardamom, cloves, cinnamon, bay). Cook until ~70–80% done, drain and set aside.
+
+3) Fry onions: In a wide heavy-bottomed pot, heat oil + 1 tbsp ghee. Fry thinly sliced onions until deep golden-brown and crisp. Remove half for garnish.
+
+4) Cook chicken: In same pot, add a little more oil/ghee, add tempered whole spices, add marinated chicken and cook on medium-high until chicken is partly cooked and oil separates. Add chopped tomatoes (if using) and green chilies. Adjust salt.
+
+5) Layering: Spread half the par-cooked rice over the chicken. Sprinkle some fried onions, chopped mint, coriander, a little garam masala, and saffron-milk. Add remaining rice and repeat toppings. Dot remaining ghee on top.
+
+6) Dum (sealed slow-cook): Seal the pot (tight-fitting lid; seal with dough if available) and cook on very low heat for 20–30 minutes. For an initial blast, cook on high for 3–4 minutes on a tawa (griddle) then transfer to low heat for dum to avoid burning.
+
+7) Rest & Serve: Let rest 5–10 minutes. Gently fluff and serve with raita, pickle, and salad.
+
+Tips & Variations
+- Rice choice: Thalassery traditionally uses kaima/jeerakasala rice which gives a different texture and short-grained aroma; basmati is an acceptable substitute.
+- Protein: Use mutton/lamb with longer marination and longer dum time; for vegetarian, substitute potatoes/cauliflower and paneer or mushrooms.
+- Control spice: Keep garam masala moderate; Malabar biryani emphasizes fragrance (fennel, mace) over heavy heat.
+- Layering: Avoid over-mixing layers while serving to preserve the distinct rice and meat layers.
+
+Source / Inspiration
+- This summary is based on canonical South Indian "Malabar/Thalassery" style biryani techniques and common recipes from well-known South Indian cooks and recipe sites.
+
+Enjoy your Briyani!
